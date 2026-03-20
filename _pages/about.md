@@ -1,5 +1,5 @@
 ---
-classes: wide
+classes: splash
 author_profile: false
 permalink: /about/
 title: "About"
