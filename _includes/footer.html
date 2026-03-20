@@ -1,0 +1,6 @@
+{% assign locale = include.locale | default: site.locale %}
+{% unless site.atom_feed.hide %}
+  {% assign show_atom = false %}
+{% endunless %}
+
+<div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: "Crypto Vaults" | escape_once | strip }}</a></div>
