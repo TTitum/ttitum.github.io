@@ -16,7 +16,7 @@
 locale                   : "en-US"
 title                    : ""
 #title_separator          : "-"
-#subtitle                 : ""
+subtitle                 : "Crypto Vaults"
 logo                     : "/assets/images/vlticon.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
