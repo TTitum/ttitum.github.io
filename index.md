@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #layout: home
 #author_profile: true
----
 title: "Splash Page"
 layout: splash
 header:
@@ -20,5 +19,4 @@ header:
       url: "/contact/index.html"    
       caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
----
 ---
