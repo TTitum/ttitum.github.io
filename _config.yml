@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                   : "en-US"
-title                    : "Crypto"
-title_separator          : "-"
-subtitle                 : "Vaults"
-logo                     : "/assets/images/vlts-colors-unsplash.jpg"
+title                    : ""
+#title_separator          : "-"
+#subtitle                 : ""
+logo                     : "/assets/images/vlticon.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Get CVaults.
+  Get Crypto Vaults.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
